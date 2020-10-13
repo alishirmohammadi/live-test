@@ -1,0 +1,4 @@
+C:/Users/Ali Shirmohammadi/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir
+C:/Users/Ali Shirmohammadi/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ali Shirmohammadi/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/Ali Shirmohammadi/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
